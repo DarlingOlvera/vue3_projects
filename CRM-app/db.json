@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mercedes",
+      "apellido": "Olvera",
+      "email": "dmercrack@email.com",
+      "telefono": "999-999-9999",
+      "empresa": "cliker",
+      "puesto": "desarrolladora",
+      "estado": 1,
+      "id": 3
+    }
+  ]
+}
